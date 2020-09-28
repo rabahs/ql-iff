@@ -13,10 +13,13 @@ Supported IFF-features:
 
 Install:
 
-Copy iff.qlgenerator to /Library/QuickLook/
+* For one user, copy iff.qlgenerator to ~/Library/QuickLook/
+* For all users, copy iff.qlgenerator to /Library/QuickLook/
 
 
-Based on orignial source code available at https://github.com/dalton-tulou/ql-iff
+Download latest version from http://www.modermodemet.se/
+
+Source code available at https://github.com/dalton-tulou/ql-iff
 
 
 Coded by David Revelj

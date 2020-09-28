@@ -24,8 +24,8 @@
 /* Begin PBXCopyFilesBuildPhase section */
 		635477DF16F127490032D294 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /Users/rabahshihab/dev/tmp;
+			buildActionMask = 12;
+			dstPath = $PROJECT_DIR;
 			dstSubfolderSpec = 0;
 			files = (
 				635477E116F127580032D294 /* iff.qlgenerator in CopyFiles */,
